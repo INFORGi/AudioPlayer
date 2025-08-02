@@ -28,7 +28,7 @@ AudioPlayer is a Rust-based application for playing audio files using the `cpal`
    ```
 
 ## Usage
-1. Place an MP3 file at a valid path (e.g., `C:/Users/shulg/Downloads/test.mp3`).
+1. Place an MP3 file at a valid path (e.g., `C:/Users/usr/Music/test.mp3`).
 2. Run the application: `cargo run`.
 3. The program will:
    - Load and play the audio file.
